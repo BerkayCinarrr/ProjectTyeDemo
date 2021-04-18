@@ -6,8 +6,8 @@
 - docker
 - dotnet tool tye
 
-> git clone https://github.com/BerkayCinarrr/ProjectTyeDemo.git 
+> $ git clone https://github.com/BerkayCinarrr/ProjectTyeDemo.git 
 
-> cd ProjectsTyeDemo
+> $ cd ProjectsTyeDemo
 
-> dotnet tool run tye run
+> $ dotnet tool run tye run
