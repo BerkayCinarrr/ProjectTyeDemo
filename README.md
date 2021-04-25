@@ -6,7 +6,7 @@
 - docker
 - dotnet tool tye
 
-> $ cd dotnet tool update
+> $ dotnet tool update
 
 > $ dotnet build
 
