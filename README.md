@@ -7,5 +7,7 @@
 - dotnet tool tye
 
 > $ cd dotnet tool update
+
 > $ dotnet build
+
 > $ dotnet tool run tye run
